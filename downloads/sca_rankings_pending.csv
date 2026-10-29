@@ -1,15 +1,15 @@
 ﻿来源,关联编号,ISSN,需要核实,版本年份,大类分区,小类分区,CCF级别,证据链接或截图说明
 "2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)",C04,1530-1591,会议CCF级别与正式长文类型,待填,,,,
 2024 IEEE 42nd International Conference on Computer Design (ICCD),C05,1063-6404,会议CCF级别与正式长文类型,待填,,,,
-ACM Transactions on Embedded Computing Systems,D07,1539-9087; 1558-3465,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-Computer Networks,D09,1389-1286,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Internet of Things Journal,A03; B10; C02,2327-4662; 2372-2541,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Circuits and Systems II: Express Briefs,A04,1549-7747; 1558-3791,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Cognitive Communications and Networking,A09,2332-7731; 2372-2045,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,B05,0278-0070; 1937-4151,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Computers,B01; C03,0018-9340; 1557-9956; 2326-3814,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Dependable and Secure Computing,B07; D02,1545-5971; 1941-0018; 2160-9209,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-IEEE Transactions on Information Forensics and Security,A02; A10; B04; B06; C01; C09; D03; D06,1556-6013; 1556-6021,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-Journal of Information Security and Applications,D08,2214-2126,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-Neural Networks,B08,0893-6080,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
-Pattern Recognition,A06,0031-3203,中科院大类一区/二区；若采用CCF等价路线需单独核目录,待填,,,,
+ACM Transactions on Embedded Computing Systems,D07,1539-9087; 1558-3465,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F103:I103；表中分区3；未注明大类/小类
+Computer Networks,D09,1389-1286,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F4483:I4483；表中分区3；未注明大类/小类
+IEEE Internet of Things Journal,A03; B10; C02,2327-4662; 2372-2541,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8484:I8484；表中分区2；未注明大类/小类
+IEEE Transactions on Circuits and Systems II: Express Briefs,A04,1549-7747; 1558-3791,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8558:I8558；表中分区2；未注明大类/小类
+IEEE Transactions on Cognitive Communications and Networking,A09,2332-7731; 2372-2045,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8561:I8561；表中分区1；未注明大类/小类
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,B05,0278-0070; 1937-4151,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8566:I8566；表中分区3；未注明大类/小类
+IEEE Transactions on Computers,B01; C03,0018-9340; 1557-9956; 2326-3814,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8567:I8567；表中分区2；未注明大类/小类
+IEEE Transactions on Dependable and Secure Computing,B07; D02,1545-5971; 1941-0018; 2160-9209,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8572:I8572；表中分区2；未注明大类/小类
+IEEE Transactions on Information Forensics and Security,A02; A10; B04; B06; C01; C09; D03; D06,1556-6013; 1556-6021,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F8593:I8593；表中分区1；未注明大类/小类
+Journal of Information Security and Applications,D08,2214-2126,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F12251:I12251；表中分区3；未注明大类/小类
+Neural Networks,B08,0893-6080,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F15894:I15894；表中分区2；未注明大类/小类
+Pattern Recognition,A06,0031-3203,已完成表内匹配；仍需确认表格来源及分区口径；若走CCF路线需另核,2025（用户提供文件标称）,,,,2025中科院期刊分区表excel完整版.xlsx，2025中科院期刊分区表excel完整版!F16797:I16797；表中分区1；未注明大类/小类

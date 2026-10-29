@@ -13,6 +13,10 @@
 | [文献总表（Excel 可打开）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_catalog.csv) | 0.04 MiB |
 | [分区与会议等级待核清单](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_rankings_pending.csv) | 0.00 MiB |
 
+## 2026-10-29分区匹配更新
+
+**先读[分区匹配结论](sca_rankings_2025_report.md)**；[下载匹配明细CSV](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_rankings_2025_match.csv)。文献总表和阅读指南已更新；三个PDF包内容未变。
+
 ## 如何使用
 
 1. 下载目录与阅读指南，以及三个公开全文包。
@@ -29,6 +33,6 @@
 - 14篇已取得的官方公开英文全文。
 - 中文阅读路线、文献总表、旧书单调整说明和筛选记录。
 
-这是主题初筛版，**不是全部论文均已核实中科院一区/二区的最终名单**。12种期刊涉及23篇候选、另有2个会议涉及2篇候选，仍需补充分区/等级证据。没有全文的条目提供文献卡和正式来源入口；取得PDF也不代表已完成全文精读或实验复现。
+这是主题初筛版，**不是全部论文均已核实中科院一区/二区的最终名单**。2026-10-29更新：12种期刊已匹配用户提供的2025表，23篇候选中19篇对应表内一区/二区、4篇对应三区；原表未注明大类/小类，来源仍待确认。另有2个会议等级仍待核。没有全文的条目提供文献卡和正式来源入口；取得PDF也不代表已完成全文精读或实验复现。
 
 论文保留原作者、来源和许可信息；具体来源见包内文献卡。文件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。

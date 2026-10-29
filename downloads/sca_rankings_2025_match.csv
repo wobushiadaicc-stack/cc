@@ -1,0 +1,13 @@
+﻿期刊,关联编号,匹配方式,表中刊名,表中分区,表中Top,标称版本,分区口径,结论,工作表,Excel行号,证据文件
+ACM Transactions on Embedded Computing Systems,D07,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,ACM Transactions on Embedded Computing Systems,3,否,2025,原表未注明大类或小类,按所提供表为三区，不满足一区/二区路线；CCF等价路线另核,2025中科院期刊分区表excel完整版,103,2025中科院期刊分区表excel完整版.xlsx
+Computer Networks,D09,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,Computer Networks,3,否,2025,原表未注明大类或小类,按所提供表为三区，不满足一区/二区路线；CCF等价路线另核,2025中科院期刊分区表excel完整版,4483,2025中科院期刊分区表excel完整版.xlsx
+IEEE Internet of Things Journal,A03; B10; C02,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE Internet of Things Journal,2,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8484,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Circuits and Systems II: Express Briefs,A04,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS,2,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8558,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Cognitive Communications and Networking,A09,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE Transactions on Cognitive Communications and Networking,1,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8561,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,B05,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS,3,否,2025,原表未注明大类或小类,按所提供表为三区，不满足一区/二区路线；CCF等价路线另核,2025中科院期刊分区表excel完整版,8566,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Computers,B01; C03,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE TRANSACTIONS ON COMPUTERS,2,否,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8567,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Dependable and Secure Computing,B07; D02,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE Transactions on Dependable and Secure Computing,2,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8572,2025中科院期刊分区表excel完整版.xlsx
+IEEE Transactions on Information Forensics and Security,A02; A10; B04; B06; C01; C09; D03; D06,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,IEEE Transactions on Information Forensics and Security,1,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,8593,2025中科院期刊分区表excel完整版.xlsx
+Journal of Information Security and Applications,D08,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,Journal of Information Security and Applications,3,否,2025,原表未注明大类或小类,按所提供表为三区，不满足一区/二区路线；CCF等价路线另核,2025中科院期刊分区表excel完整版,12251,2025中科院期刊分区表excel完整版.xlsx
+Neural Networks,B08,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,NEURAL NETWORKS,2,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,15894,2025中科院期刊分区表excel完整版.xlsx
+Pattern Recognition,A06,刊名规范化完全匹配（忽略大小写、空格及标点）；原表无ISSN,PATTERN RECOGNITION,1,是,2025,原表未注明大类或小类,按所提供表暂符合一区/二区，待确认口径,2025中科院期刊分区表excel完整版,16797,2025中科院期刊分区表excel完整版.xlsx

@@ -6,16 +6,24 @@
 
 | 下载内容 | 大小 |
 |---|---:|
-| [目录与阅读指南（先下载）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_reading_guide.zip) | 0.63 MiB |
+| [目录与阅读指南（先下载）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_reading_guide.zip) | 0.66 MiB |
 | [公开论文全文包 1](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_papers_1.zip) | 22.79 MiB |
 | [公开论文全文包 2](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_papers_2.zip) | 21.59 MiB |
 | [公开论文全文包 3](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_papers_3.zip) | 11.94 MiB |
-| [文献总表（Excel 可打开）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_catalog.csv) | 0.04 MiB |
+| [文献总表（Excel 可打开）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_catalog.csv) | 0.05 MiB |
 | [分区与会议等级待核清单](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_rankings_pending.csv) | 0.00 MiB |
 
 ## 2026-10-29分区匹配更新
 
-**先读[分区匹配结论](sca_rankings_2025_report.md)**；[下载匹配明细CSV](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_rankings_2025_match.csv)。文献总表和阅读指南已更新；三个PDF包内容未变。
+**先读[分区匹配结论](sca_rankings_2025_report.md)**；[下载匹配明细CSV](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_rankings_2025_match.csv)。文献总表和阅读指南已更新；54张阅读卡和14个PDF已在文件名中标注分区或来源状态，三个PDF包也已更新。
+
+## 数量与阅读顺序
+
+**共54篇条目，实际附14篇PDF，40篇全文待补。**不是54篇全文，也不是54篇均已通过等级核验。[查看推荐阅读顺序及文件名含义](sca_reading_order.md)。
+
+19篇对应用户表一区/二区的论文尚未附PDF，分区写在阅读卡文件名中。已有14个PDF标注为领域重要来源或经典例外。
+
+**本轮四个ZIP均已更新，请解压到新的空文件夹，避免保留旧文件名造成重复。**
 
 ## 如何使用
 

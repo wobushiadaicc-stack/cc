@@ -6,6 +6,7 @@
 
 | 下载内容 | 大小 |
 |---|---:|
+| **[完整文献库（推荐，只下载这一个）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_library_complete.zip)** | 56.96 MiB |
 | [目录与阅读指南（先下载）](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_reading_guide.zip) | 0.66 MiB |
 | [公开论文全文包 1](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_papers_1.zip) | 22.79 MiB |
 | [公开论文全文包 2](https://github.com/wobushiadaicc-stack/cc/raw/refs/heads/main/downloads/sca_papers_2.zip) | 21.59 MiB |
@@ -27,12 +28,13 @@
 
 ## 如何使用
 
-1. 下载目录与阅读指南，以及三个公开全文包。
-2. 将四个独立 ZIP 解压到同一个父目录，它们会合并到 `侧信道文献库_精选初筛_20261027` 文件夹。
-3. 打开其中的 `00_优先阅读.md`，按推荐顺序开始阅读。
-4. CSV 文件可用 Excel 打开，便于筛选论文和填写分区结果。
+1. 下载上面的“完整文献库”，解压一次即可。
+2. 打开其中的 `00_优先阅读.md`，按推荐顺序开始阅读。
+3. `文献总表.csv` 可用 Excel 打开，便于筛选论文和查看分区标注。
 
-也可以直接从仓库首页点击 **Code → Download ZIP** 下载整个仓库，再解压 `downloads` 下的四个资料包。
+下面的目录包和三个全文分包仅作为网络不稳定时的备用，不需要与完整包重复下载。
+
+也可以直接从仓库首页点击 **Code → Download ZIP** 下载整个仓库，再解压 `downloads/sca_library_complete.zip`。
 
 ## 包含什么
 
